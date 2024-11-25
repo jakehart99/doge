@@ -1,4 +1,13 @@
 <head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZT3SH8X4ZM"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-ZT3SH8X4ZM');
+  </script>
   <meta charset="utf-8" />
   {{ with .Site.Language.Params.htmlCode | default .Site.LanguageCode }}
   <meta http-equiv="content-language" content="{{ . }}" />
