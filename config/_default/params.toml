@@ -22,7 +22,7 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 defaultBackgroundImage = "/img/background.svg"
-defaultFeaturedImage = "/img/featured.svg"
+defaultFeaturedImage = "/img/featured.jfif"
 
 highlightCurrentMenuArea = true
 smartTOC = true

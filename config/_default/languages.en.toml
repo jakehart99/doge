@@ -7,7 +7,7 @@ title = "Doge HQ"
   displayName = "English"
   isoCode = "en"
   rtl = false
-  dateFormat = "20 November 2024"
+  dateFormat = "2 January 2006"
   logo = "img/doge_logo_transparent.png"
   description = "Department of Government Efficiency"
 
@@ -16,7 +16,7 @@ title = "Doge HQ"
   email = "dogehq.blog@gmail.com"
   image = "img/doge_logo.png"
   headline = "Department of Government Efficiency"
-  bio = "Doge: Department of Government Efficiency"
+  bio = "Department of Government Efficiency"
   links = [
     { x-twitter = "https://www.goodreads.com/work/quotes/45485993-the-100-best-yo-mama-jokes" },
   ]
