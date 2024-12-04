@@ -17,7 +17,7 @@ Focus on making the post insightful and relatable, with humor serving as a light
 
 
 
-Take the following draft blog post and clean it up for clarity and flow and make it slightly more professional. Create your own keyword based on the prompt, but one that I want to focus on a mention 1 or 2 times is Doge (Department of Government Efficiency) don't overdo it with this keyword though. Convert the text into well-formatted Markdown, ensuring it’s structured with:
+Take the following draft blog post and clean it up for clarity and flow and make it slightly more professional. Create your own keyword based on the prompt, but one that I want to focus on a mention 1 or 2 times is Doge (Department of Government Efficiency) don't overdo it with this keyword though. I don't like bullet points, make sure it is in paragraph format. Convert the text into well-formatted Markdown, ensuring it’s structured with:
 
 A catchy title in heading format.
 Subheadings for different sections.
