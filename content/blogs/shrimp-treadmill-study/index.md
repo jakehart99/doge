@@ -6,6 +6,8 @@ draft: false
 description: "An examination of a controversial $3 million government-funded study involving shrimp on treadmills, highlighting questions about federal research spending priorities."
 keywords: ["government waste", "shrimp treadmill", "research funding", "government spending", "scientific research", "funding priorities"]
 tags: ["Government Spending", "Research Oversight", "Fiscal Policy"]
+featured_image: "featured.png"
+
 ---
 
 {{< lead >}}

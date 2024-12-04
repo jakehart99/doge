@@ -6,6 +6,7 @@ date: 2024-12-03
 description: "A critical look at government spending inefficiency through the lens of a $28 million uniform mishap, highlighting the need for the Department of Government Efficiency (DOGE) in military procurement."
 keywords: ["Department of Government Efficiency", "DOGE", "military spending", "government waste", "procurement reform", "military uniforms", "Afghanistan"]
 tags: ["DOGE", "Military Spending", "Government Reform"]
+featured_image: "featured.png"
 ---
 
 {{< lead >}}
