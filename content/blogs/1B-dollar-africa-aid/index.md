@@ -6,6 +6,7 @@ date: 2024-12-04
 description: "A critical analysis of Biden's $1 billion African aid package and its implications for domestic spending priorities, examining the role of the Department of Government Efficiency (DOGE) in federal resource allocation."
 keywords: ["Department of Government Efficiency", "DOGE", "foreign aid", "domestic spending", "government reform", "Biden administration", "Africa"]
 tags: ["DOGE", "Foreign Aid", "Government Reform"]
+featured_image: "featured.png"
 ---
 
 {{< lead >}}

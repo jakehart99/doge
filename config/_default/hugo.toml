@@ -3,7 +3,7 @@
 # https://blowfish.page/blogs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://localhost:1313"
+baseURL = "https://dogehq.net"
 defaultContentLanguage = "en"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
